@@ -6,7 +6,7 @@ pub fn vec_examples(){
     v.push(7);
 
     //initializing and declaring a vector example.
-    let vec = vec![1,2,3];
+    let _vec = vec![1,2,3];
 
 
     //methods of accessing a value in vector.
